@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Face() {
+function Figure() {
     return (
         <div>
             <svg className="smiley figure-container" width="256" height="256" viewBox="0 0 256 256">
@@ -17,4 +17,4 @@ function Face() {
     )
 }
 
-export default Face
+export default Figure
